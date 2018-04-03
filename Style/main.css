@@ -1,0 +1,23 @@
+table{
+   background: orange;
+    
+    
+}
+
+table,
+th,
+tr,
+td {
+
+border: 3px solid darkred;
+margin: auto;
+
+}
+
+th,
+ {
+ 
+margin: auto;
+}
+
+
